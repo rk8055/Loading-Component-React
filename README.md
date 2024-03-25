@@ -1,5 +1,8 @@
 # React + Vite
 
+
+Simple re-usable Loading bar component made with React and JS. To use it, simply download the code, npm install and finally npm run dev! 😊
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
